@@ -5,7 +5,7 @@ export { default as about } from "./img/about.webp";
 
 // projects
 
-export { default as PortfolioFirebase } from "./img/Project/PortfolioWebiste.png";
+export { default as PortfolioFirebase } from "./img/Project/PortfolioWebsite.png";
 export { default as Algoxchange } from "./img/Project/Algoxchange.png";
 export { default as CarRent } from "./img/Project/CarRent.png";
 export { default as Sheddlers } from "./img/Project/Sheddlers.png";

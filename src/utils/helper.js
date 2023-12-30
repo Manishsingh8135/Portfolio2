@@ -149,13 +149,13 @@ export const ProjectsData = [
     demoURL: "https://recruitify.onrender.com/",
   },
 
-  // {
-  //   id: `portfoliofirebase-${Date.now()}`,
-  //   name: "Portfolio UI Fireabse",
-  //   imgSrc: PortfolioFirebase,
-  //   gitURL: "https://github.com/ankittkamal/React-Personal-Portfolio",
-  //   demoURL: "https://ankittkamal-d5e97.web.app/",
-  // },
+  {
+    id: `portfoliofirebase-${Date.now()}`,
+    name: "Portfolio",
+    imgSrc: PortfolioFirebase,
+    gitURL: "https://github.com/Manishsingh8135/Portfolio2",
+    demoURL: "https://manishhsingh.vercel.app/",
+  },
 ];
 
 export const skillsData = [
