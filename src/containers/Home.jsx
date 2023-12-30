@@ -37,11 +37,13 @@ const Home = () => {
             />
           </h2>
           <p className="text-base text-texlight mt-6 text-center lg:text-left">
-            I'm a tech enthusiast, eager to expand my skills and knowledge and
+            I'm a  
+            <span className="font-bold"> Freelancer,</span>{" "}
+            tech enthusiast, eager to expand my skills and knowledge and
             In the process of mastering{" "}
             <span className="font-bold">full-stack development,</span>{" "}
             <span>with a strong focus on </span>
-            <span className="underline">React (Next.js)</span>{" "}
+            <span className="underline"> React (Next.js), JavaScript, Python, Django, Problem Solving </span>{" "}
             <span> as my foundation.</span>
           </p>
 

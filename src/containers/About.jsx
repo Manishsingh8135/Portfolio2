@@ -42,34 +42,26 @@ const About = () => {
         {/* content */}
         <section className="w-full px-8 flex flex-col gap-4 items-start justify-start ">
           <p className="text-texlight hover:text-primary text-base tracking-wide text-justify">
-            After graduating with a degree in{" "}
-            <span className="font-medium">
-              Bachelor of Technology in Computer Science Engineering,
-            </span>{" "}
-            I learned
-            <span className="font-medium"> full-stack web development</span>.
-            <span className="italic"> My favorite part of programming</span> is
-            the problem-solving aspect. I{" "}
-            <span className="underline">love</span> the feeling of finally
-            figuring out a solution to a problem.
+          Hey there! 👋 I'm thrilled to welcome you to my corner of the internet! I recently graduated and dove straight into the tech world, gaining invaluable experience through an internship at an innovative edtech startup. Throughout college, I embarked on an exhilarating freelancing journey, collaborating with clients primarily from North America. I've had the pleasure of crafting exceptional websites and software solutions that have truly made an impact.
+
+
           </p>
           <p className="text-texlight hover:text-primary text-base tracking-wide text-justify">
-            My core stack is{" "}
-            <span className="font-medium">
-              React, Node.js, Express.js and MongoDB
-            </span>
-            . I am also familiar with TypeScript and Prisma. I am always looking
-            to learn new technologies. I am currently looking for a{" "}
-            <span className="font-medium ">full-time position</span> as a
-            software developer.
+          Problem-solving? It's my forte! Whether it's tackling complex coding challenges or diving into the realm of new technologies like ReactJS, NextJS, Python, Django, Flask, and TailwindCSS, I'm all in. The competitive environments I've worked in have honed my skills, nurturing me into a solution-focused developer. My journey as a freelancer has been my guiding light, propelling my growth as a software developer and paving the way for diverse and intricate projects.
           </p>
           <p className="text-texlight hover:text-primary text-base tracking-wide text-justify">
-            <span className="italic">When I'm not coding</span>, I enjoy playing
-            sports , watching movies, and spending time with my family. I also
-            enjoy <span className="font-medium">learning new things</span>. I am
-            currently learning about{" "}
-            <span className="font-medium">business and philosophy</span>. I'm
-            also learning how to play the guitar.
+          Speaking of projects, let me take you on a ride through the tech wonderland I've explored! From an algo-trading tool developed with a friend to an AI image generator and even a custom dating app for college buddies – each project was a canvas to merge technology with creativity, where innovation met functionality.
+          </p>
+          <p className="text-texlight hover:text-primary text-base tracking-wide text-justify">
+          Beyond the screen and lines of code, I find my passions weaving through the outdoors, immersing myself in sports and diving deep into the realms of books. The universe, existence, civilization, art, culture, and philosophy? Count me in! Oh, and did I mention my love for drawing and sketching?
+
+
+          </p>
+          <p className="text-texlight hover:text-primary text-base tracking-wide text-justify">
+          So, let's embark on this journey together! Explore my portfolio, peek into my tech adventures, and let's connect over our shared love for innovation, learning, and the incredible mysteries of life.
+          </p>
+          <p className="text-texlight hover:text-primary text-base tracking-wide text-justify">
+            Cheers!!
           </p>
         </section>
       </div>
