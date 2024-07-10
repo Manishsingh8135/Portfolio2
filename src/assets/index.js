@@ -16,4 +16,8 @@ export { default as Aimage } from "./img/Project/Aimage.png";
 
 export { default as InstantMessage } from "./img/Project/InstantMessage.png";
 export { default as Recruitify } from "./img/Project/Recruitify.png";
+
+export { default as Nearby } from "./img/Project/Nearby.png";
+export { default as DHSRevamp } from "./img/Project/DHSRevamp.png";
+
 // export { default as Aimage } from "./img/Project/Aimage.png";

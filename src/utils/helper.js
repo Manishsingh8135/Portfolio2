@@ -20,6 +20,9 @@ import {
 
   InstantMessage,
   Recruitify,
+  Nearby,
+  DHSRevamp
+
   
 } from "../assets";
 import {
@@ -94,15 +97,29 @@ export const Menus = [
 
 export const ProjectsData = [
   {
+    id: `DHS Revamp-${Date.now()}`,
+    name: "DHS Revamp",
+    imgSrc: DHSRevamp, // Replace with the actual image source
+    gitURL: "https://github.com/Manishsingh8135/DHS-revamp",
+    demoURL: "https://dhsrevamp.vercel.app/",
+  },
+  {
+    id: `Nearby-${Date.now()}`,
+    name: "Nearby",
+    imgSrc: Nearby, // Replace with the actual image source
+    gitURL: "https://github.com/Manishsingh8135/nearbyfe",
+    demoURL: "https://nearbyfe.vercel.app/",
+  },
+  {
     id: `Ai Image Generator-${Date.now()}`,
-    name: "AI Image Generator ",
+    name: "AI Image Generator",
     imgSrc: Aimage,
     gitURL: "https://github.com/Manishsingh8135/Ai-Image-generator",
     demoURL: "https://aiiimagegenerator.netlify.app/",
   },
   {
     id: `AlgoTrade-${Date.now()}`,
-    name: "AlgoTrade ",
+    name: "AlgoTrade",
     imgSrc: Algoxchange,
     gitURL: "https://github.com/xahinds2/AlgoTrade",
     demoURL: "https://algoxchange.onrender.com/",
@@ -120,20 +137,14 @@ export const ProjectsData = [
     imgSrc: Ripfitness,
     gitURL: "https://github.com/Manishsingh8135/R1PFITNESS",
     demoURL: "https://www.r1pohana.net/",
-  },{
+  },
+  {
     id: `Shedtronix Healthcare Agency-${Date.now()}`,
     name: "Shedtronix Healthcare Agency",
     imgSrc: Sheddlers,
     gitURL: "https://github.com/Manishsingh8135/Job-Portal",
     demoURL: "https://www.sheddlershealthcare.com/",
   },
-  // {
-  //   id: `FlightServiceService-${Date.now()}`,
-  //   name: " Flight Booking Service",
-  //   imgSrc: SocialMedia,
-  //   gitURL: "https://github.com/ankittkamal/Flight-Booking-Service-System",
-  // },
-
   {
     id: `InstantMessage-${Date.now()}`,
     name: "Instant Message",
@@ -148,7 +159,6 @@ export const ProjectsData = [
     gitURL: "https://github.com/xahinds2/Recruitify",
     demoURL: "https://recruitify.onrender.com/",
   },
-
   {
     id: `portfoliofirebase-${Date.now()}`,
     name: "Portfolio",
